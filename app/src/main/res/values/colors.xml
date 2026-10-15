@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1E3A8A</color>
+    <color name="primary_variant">#172554</color>
+    <color name="on_primary">#FFFFFF</color>
+
+    <color name="secondary">#0D9488</color>
+    <color name="secondary_variant">#0F766E</color>
+    <color name="on_secondary">#FFFFFF</color>
+
+    <color name="background">#F8FAFC</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="card_stroke">#E2E8F0</color>
+
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="text_tertiary">#94A3B8</color>
+
+    <color name="chip_bg">#EFF6FF</color>
+    <color name="chip_text">#1D4ED8</color>
+
+    <color name="salary_badge_bg">#ECFDF5</color>
+    <color name="salary_badge_text">#047857</color>
+
+    <!-- Avatar Badges Colors -->
+    <color name="avatar_1">#3B82F6</color>
+    <color name="avatar_2">#8B5CF6</color>
+    <color name="avatar_3">#EC4899</color>
+    <color name="avatar_4">#10B981</color>
+    <color name="avatar_5">#F59E0B</color>
+    <color name="avatar_6">#06B6D4</color>
+    <color name="avatar_7">#6366F1</color>
+
+    <color name="error_color">#EF4444</color>
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Employee Directory</string>
+    <string name="title_employee_detail">Employee Details</string>
+    <string name="search_hint">Search employees...</string>
+    <string name="loading_employees">Loading employees from server…</string>
+    <string name="error_loading_title">Failed to load data</string>
+    <string name="error_loading_message">Could not fetch employee details. Please check your network connection and try again.</string>
+    <string name="retry">Retry</string>
+    <string name="empty_search_title">No matching employees</string>
+    <string name="empty_search_message">Try searching with a different name.</string>
+    
+    <!-- Detail Screen Strings -->
+    <string name="section_personal_info">Personal Information</string>
+    <string name="section_compensation">Compensation &amp; Role</string>
+    <string name="label_name">Name</string>
+    <string name="label_age">Age</string>
+    <string name="label_salary">Monthly Salary</string>
+    <string name="label_annual_salary">Annual Salary (Est.)</string>
+    <string name="label_employee_id">Employee ID</string>
+    <string name="label_status">Status</string>
+    <string name="status_active">Active Employee</string>
+    <string name="action_send_email">Send Email</string>
+    <string name="action_call">Call</string>
+    <string name="action_share">Share Profile</string>
+</resources>
